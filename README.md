@@ -8,4 +8,4 @@ a runner game which a candle player collects waxes and gets taller.
 -[Terrain Textures Pack Free](https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-pack-free-139542)
 
 
-<img src=https://github.com/nazlicancay/Cande_Runer/blob/main/candleRunner.gif width="500" height="500"  />
+<img src=https://github.com/nazlicancay/Cande_Runer/blob/main/candleRunner.gif width="500" height="800"  />
